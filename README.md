@@ -1,7 +1,7 @@
 # Hi, I'm Benedykt 👋
 
-👩🏻‍💻 Software Engineer based in Poland<br/>
-💭 Currently focusing on leetcode, learning about data structures and algorithms<br/>
+👩🏻‍💻 Software Developer based in Poland<br/>
+💭 Currently focusing on Next.js, React.js, data structures and algorithms<br/>
 🎨 You can check out my website [here](https://www.benedyktkajzerek.com)<br/>
 
 # 💻 Tech Stack:
